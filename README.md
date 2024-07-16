@@ -1,4 +1,4 @@
-# Conversor de monedas
+#Challenge Api Foro 
 #Alura 
 
 Sean bienvenidos a  mi api de Foro el cual consiste en una Api Rest.
@@ -13,4 +13,4 @@ Les muestro a continuacion los endpoints disponibles
 5) Endpoint Inicio de sesion  
 6) Endpoint Alta de usuario 
 7) Generacion de un JWT a travez del endpoint Inicio de Sesion 
-8) Implementacion de seguridad a los enpoints del crud de foros el cual requiere un JWT para 
+8) Implementacion de seguridad a los enpoints del crud de foros el cual requiere un JWT para acceder a sus recursos
